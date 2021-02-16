@@ -8,6 +8,8 @@ sites:
     url: https://www.google.com
   - name: BrokenSite
     url: https://thissssitedoesnotexist.com
+  - name: car4-qa
+    url: https://car4-qa.ridecell.us
 
 assignees: # Users to assign downtime issues (optional)
   - karankale
