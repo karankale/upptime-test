@@ -21,7 +21,7 @@ status-website:
   introMessage: This is a sample status page
   navbar:
     - title: Status
-      href: /
+      href: /upptime-test
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: ocean
