@@ -7,7 +7,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: BrokenSite
-    url: https://thissssitedoesnotexist.com
+    url: https://car4-qa.ridecell.us/karan
   - name: car4-qa
     url: https://car4-qa.ridecell.us
 
