@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 77,
+    "timeDay": 76,
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
@@ -19,8 +19,8 @@
   },
   {
     "name": "BrokenSite",
-    "url": "https://thissssitedoesnotexist.com",
-    "icon": "https://favicons.githubusercontent.com/thissssitedoesnotexist.com",
+    "url": "https://car4-qa.ridecell.us/karan",
+    "icon": "https://favicons.githubusercontent.com/car4-qa.ridecell.us",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 464,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 395,
+    "timeDay": 302,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
