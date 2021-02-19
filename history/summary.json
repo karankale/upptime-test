@@ -22,17 +22,17 @@
     "url": "https://car4-qa.ridecell.us",
     "icon": "https://favicons.githubusercontent.com/car4-qa.ridecell.us",
     "slug": "car4-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 486,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 1834,
+    "timeDay": 4298,
+    "timeWeek": 1834,
+    "timeMonth": 1834,
+    "timeYear": 1834,
     "dailyMinutesDown": {}
   }
 ]
