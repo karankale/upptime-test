@@ -22,19 +22,19 @@
     "url": "https://car4-qa.ridecell.us",
     "icon": "https://favicons.githubusercontent.com/car4-qa.ridecell.us",
     "slug": "car4-qa",
-    "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
-    "time": 1350,
-    "timeDay": 1144,
-    "timeWeek": 1350,
-    "timeMonth": 1350,
-    "timeYear": 1350,
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "90.79%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
+    "time": 1300,
+    "timeDay": 1045,
+    "timeWeek": 1300,
+    "timeMonth": 1300,
+    "timeYear": 1300,
     "dailyMinutesDown": {
-      "2021-02-22": 121
+      "2021-02-22": 133
     }
   }
 ]
