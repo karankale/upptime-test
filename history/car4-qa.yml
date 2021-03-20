@@ -1,7 +1,7 @@
 url: https://car4-qa.ridecell.us
-status: down
-code: 503
-responseTime: 271
-lastUpdated: 2021-03-20T14:32:35.129Z
+status: up
+code: 200
+responseTime: 378
+lastUpdated: 2021-03-20T14:46:19.141Z
 startTime: Tue Feb 16 2021 13:02:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
